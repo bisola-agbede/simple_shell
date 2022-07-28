@@ -138,8 +138,8 @@ char *replaced_input(r_var **head, char *input, char *new_input, int nlen)
 /**
  * rep_var - calls functions to replace string into vars
  *
- * @input: input string
- * @datash: data structure
+ * @input: INPUT STRING
+ * @datash: DATA STRUCTURE
  * Return: replaced string
  */
 char *rep_var(char *input, data_shell *datash)

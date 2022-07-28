@@ -81,7 +81,7 @@ int _setenv(data_shell *datash)
 /**
  * _unsetenv - deletes a environment variable
  *
- * @datash: data relevant (env name)
+ * @datash: DATA RELEVANT (env name)
  *
  * Return: 1 on success.
  */

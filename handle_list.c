@@ -34,7 +34,7 @@ sep_list *add_sep_node_end(sep_list **head, char sep)
 }
 
 /**
- * free_sep_list - Frees a sep_list
+ * free_sep_list - frees a sep_list
  * @head: head of the linked list.
  * Return: no return.
  */
@@ -89,7 +89,7 @@ line_list *add_line_node_end(line_list **head, char *line)
 }
 
 /**
- * free_line_list - frees a line_list
+ * free_line_list - Frees a line_list
  * @head: head of the linked list.
  * Return: no return.
  */

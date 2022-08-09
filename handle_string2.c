@@ -34,7 +34,7 @@ int _strlen(const char *s)
 }
 
 /**
- * cmp_chars - compare chars of strings
+ * cmp_chars - Compare chars of strings
  * @str: input string.
  * @delim: delimiter.
  *

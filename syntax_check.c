@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * repeated_char - counts the repetitions of a char
+ * repeated_char - Counts the repetitions of a char
  *
  * @input: input string
  * @i: index
@@ -16,7 +16,7 @@ int repeated_char(char *input, int i)
 }
 
 /**
- * error_sep_op - finds syntax errors
+ * error_sep_op - Finds syntax errors
  *
  * @input: input string
  * @i: index
